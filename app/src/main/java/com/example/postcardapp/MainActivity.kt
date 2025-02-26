@@ -20,6 +20,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.postcardapp.ui.theme.PostCardAppTheme
 
+// Main Function
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,6 +36,15 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+//Define the colors that will be used in the app
+val LightGray = Color(0xFFF5F5F5)
+val Golden = Color(0xFFDAA520)
+val DarkGray = Color(0xFF333333)
+val MediumGray = Color(0xFF555555)
+
+////////////////////////////////////////////////////////////////////////////////
+
 @Composable
 fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
     Column(
