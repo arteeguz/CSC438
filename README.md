@@ -11,8 +11,8 @@ A simple Android application built with Kotlin and Jetpack Compose that displays
 
 ## Screenshot
 
-<img src="app/src/main/res/drawable/app_screenshot.png" width="300">
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/cf8d2686-9e0b-4850-b776-f0d50d5a58b6)
+
 ## Technologies
 
 - Kotlin
