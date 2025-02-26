@@ -42,13 +42,5 @@ A simple Android application built with Kotlin and Jetpack Compose that displays
 - **Divider errors**: Use Box-based divider as implemented in code
 - **Resource errors**: Ensure image is correctly named and placed
 
-## Extending
-
-- Add animations
-- Implement dark/light theme
-- Add QR code
-- Include additional contact methods
-
----
 
 Developed by Artem Guz
