@@ -12,7 +12,7 @@ A simple Android application built with Kotlin and Jetpack Compose that displays
 ## Screenshot
 
 <img src="app/src/main/res/drawable/app_screenshot.png" width="300">
-
+![img.png](img.png)
 ## Technologies
 
 - Kotlin
